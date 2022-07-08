@@ -1,0 +1,2 @@
+# Ignore tankfiles as they can be too large
+*.tnk
