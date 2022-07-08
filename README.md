@@ -30,7 +30,6 @@ Washington University
 | 20100404_El-MayorCucapah    | 3 | |
 | 20110309_japan_subduction10 | 1 | Miyagi |
 | 20110311_japan_subduction11 | 1 | Tohoku |
-| 20110311_japan_subduction12 | 1 | Ibaraki |
 | 20121207_japan_subduction17 | 1 | North Honshu |
 | 20140824_southnapa          | 1 | |
 | 20160416_japan_shcrust43    | 1 | Kumamoto |
