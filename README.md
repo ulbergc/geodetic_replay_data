@@ -5,7 +5,7 @@ Murray, J. R., B. W. Crowell, M. H. Murray, C. W. Ulberg, J. J. McGuire (in prep
 ## Directory structure
 events/event_name/
 - event_name.geodetic.dat (channel file)
-- event_name.geodetic.tnk (tankplayer file)
+- event_name.geodetic.tnk (tankplayer file. These can be found in the [release](https://github.com/ulbergc/geodetic_replay_data/releases/tag/v1.0.0) assets)
 - event_name.geodetic.mseed.tar.gz (contains an mseed/ directory with miniseed files that correspond with the tankplayer file)
 
 README.md (this file)
