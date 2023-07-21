@@ -1,6 +1,6 @@
 # Geodetic data used for replays of geodetic algorithms (GFAST)
 From:  
-Murray, J. R., B. W. Crowell, M. H. Murray, C. W. Ulberg, J. J. McGuire (in prep, 2022). Incorporation of real-time earthquake magnitudes estimated via peak ground displacement scaling in the ShakeAlert Earthquake Early Warning system
+Jessica R. Murray, Brendan W. Crowell, Mark H. Murray, Carl W. Ulberg, Jeffrey J. McGuire, Mario A. Aranha, Mike T. Hagerty; Incorporation of Real‐Time Earthquake Magnitudes Estimated via Peak Ground Displacement Scaling in the ShakeAlert Earthquake Early Warning System. Bulletin of the Seismological Society of America 2023; 113 (3): 1286–1310. doi: ([https://doi-org.offcampus.lib.washington.edu/10.1785/0120220181](https://doi-org.offcampus.lib.washington.edu/10.1785/0120220181))
 
 ## Directory structure
 events/event_name/
